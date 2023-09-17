@@ -22,18 +22,14 @@
 En este repositorio se encuentran los archivos utilizados para la entrega uno del proyecto final, su estructura es la siguiente:
 
 - Archivo **README**
-<br/>
 - Archivo **Proyecto final entrega uno.pdf**: que corresponde al documento metodologico.
-<br/>    
 - Archivo notebook **ENTREGA_UNO_PUNTOS_5_Y_6.ipynb**: en el cual se desarrollan los puntos; **5 RECOLECCIÓN DE DATOS y 6 ENTENDIMIENTO DE LOS DATOS**. 
 - Archivo **univariate_utils.py**: utils para realizar el analisis univariado.
 - Archivo **multivariate_utils.py**: utils para realizar el analisis multivariado.
-<br/>   
 - Carpeta **data**
     - Por temas de privacidad de los datos del cliente, esta carpeta se encuentra vacia, en el link de entrega se proporciona un enlace para la descarga de los archivos en una carpeta a la cual tiene acceso el docente. Los archivos de datos que se deben guardar en la carpeta **data** para poder ejecutar el notebook son:
         - Informacion Bases de datos Comercial Marca 1.xlsx
         - Informacion Bases de datos Comercial Marca 2 - 10.xlsx
         - Seguimiento PAX.xlsx
-<br/>
 - Carpeta **imagenes**
     - Contiene 1 imagen utilizadas en el notebook del proyecto.
